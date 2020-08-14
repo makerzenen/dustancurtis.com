@@ -1,5 +1,6 @@
 {
   "name": "dustancurtis.com",
+  "homepage": "https://dustancurtis.com",
   "version": "2.0.0",
   "private": true,
   "dependencies": {
